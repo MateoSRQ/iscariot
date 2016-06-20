@@ -1,0 +1,22 @@
+{
+  "name": "iscariot",
+  "version": "1.0.0",
+  "description": "0.1",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "backbone.marionette": "^2.4.7",
+    "bootstrap": "^3.3.6",
+    "gulp": "^3.9.1",
+    "jquery": "<3.0.0",
+    "loglevel": "^1.4.1",
+    "node-polyglot": "^2.0.0",
+    "require-css": "^0.1.8",
+    "requirejs": "^2.2.0",
+    "requirejs-text": "^2.0.12"
+  }
+}
